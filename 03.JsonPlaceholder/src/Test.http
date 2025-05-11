@@ -1,0 +1,3 @@
+### GET List of Posts
+GET https://json-placeholder-olive.vercel.app/posts
+
