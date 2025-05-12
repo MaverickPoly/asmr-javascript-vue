@@ -27,9 +27,8 @@
 6. Expense Tracker
    o Add income/expense entries and calculate balance.
    o Use localStorage and dynamic lists.
-7. Pomodoro Timer
-   o Start/stop/reset a 25-minute timer.
-   o Learn interval handling and dynamic class binding.
+7. Timer
+    * Start/stop/reset a timer.
 8. Recipe Book
    o Add/view/edit/delete simple recipes.
    o Use dynamic routes and component reuse.
@@ -48,13 +47,10 @@
 12. Login/Register Form
     • Basic form validation and toggling between login/register.
     • Practice v-model, form handling, and error feedback.
-13. Markdown Previewer
-    • Type Markdown and show live preview using a library like marked.js.
-    • Learn about third-party library integration.
+13. Carousel
+    • Implement a simple carousel list.
 14. Notes App
     • Create, update, delete notes with localStorage support.
     • Use CRUD operations and dynamic component interaction.
-15. Music Player UI
-    • Play/pause tracks with a progress bar.
-    • Use audio elements and custom controls.
-
+15. Random Password Generator
+    • Generate a random password based on user criteria.
