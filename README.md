@@ -43,7 +43,7 @@
 
 11. Simple eCommerce Cart
     • Browse products, add to cart, view total price.
-    • Learn about state management (Vuex or simple global state).
+    • Learn about state management with Pinia and navigation with Vue Router.
 12. Login/Register Form
     • Basic form validation and toggling between login/register.
     • Practice v-model, form handling, and error feedback.
