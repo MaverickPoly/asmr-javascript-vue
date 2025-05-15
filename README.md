@@ -1,6 +1,9 @@
 # ASMR JavaScript Vue
 
-15 Beginner Vue js Projects for beginners.
+15 Beginner Vue js Projects for beginners. There are also some challenging projects like EcommerceCart and
+ExpenseTracker.
+Projects cover different areas of Vue JS, including API Data Fetching, Navigation with Vue Router, State management with
+Hooks, state management with Pinia, composable and more.
 
 ## Projects
 
